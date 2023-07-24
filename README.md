@@ -4,14 +4,13 @@ Looking for new challenges and the opportunity to join a growing collaborative t
 
 ⭐️ From [phanzr](https://github.com/phanzr)
 
-![phanzr](https://github-readme-stats.vercel.app/api?username=phanzr&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=phanzr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phanzr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![phanzr](https://github-readme-stats.vercel.app/api?username=phanzr&show_icons=true&theme=gotham)
+![](https://github-readme-streak-stats.herokuapp.com/?user=phanzr&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phanzr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+##
 
-## 🏆 Trofeos GitHub
-
-![](https://github-profile-trophy.vercel.app/?username=phanzr&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <!--
+![](https://github-profile-trophy.vercel.app/?username=phanzr&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  
 **phanzr/phanzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 //Here are some ideas to get you started:
