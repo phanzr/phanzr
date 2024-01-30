@@ -3,8 +3,8 @@
 Looking for new challenges and the opportunity to join a growing collaborative team, where I can contribute with my knowledge, and thus achieve the purpose of expanding my experience as a full stack developer, committed to learning and continuous improvement in the use of best practices.
 
 **SKILLS**
-+ React.js, Laravel, Node.js, JSON, API REST 
-+ JavaScript, Typescript, SQL, Postgres, DBeaver, Postman, Vite.js <br/>
++ React.js, Laravel, React native(3 months), Node.js, JSON, API REST 
++ JavaScript, Typescript, SQL, Postgres, DBeaver, Postman, Axios, Vite.js <br/>
 + HTML/CSS, Sass CSS, Flexbox CSS, Grid CSS, BEM, Bootstrap, Material Design <br/>
 + Git, GitHub, GitLab, Jira, Taiga, Trello, Slack <br/>
 
