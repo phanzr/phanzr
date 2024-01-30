@@ -6,7 +6,7 @@ Looking for new challenges and the opportunity to join a growing collaborative t
 + React.js, Laravel, React native(3 months), Node.js, JSON, API REST 
 + JavaScript, Typescript, SQL, Postgres, DBeaver, Postman, Axios, Vite.js <br/>
 + HTML/CSS, Sass CSS, Flexbox CSS, Grid CSS, BEM, Bootstrap, Material Design <br/>
-+ Git, GitHub, GitLab, Jira, Taiga, Trello, Slack <br/>
++ Git, GitHub, GitLab, Jira, Bitbucket, Taiga, Trello, Slack <br/>
 
 **Methodologies:** Scrum, Kanban <br/>
 **UX/UI Design:** Figma, Miro, Design Thinking 
