@@ -5,7 +5,7 @@ Looking for new challenges and the opportunity to join a growing collaborative t
 **SKILLS**
 + React.js, Node.js, JSON, API REST 
 + Typescript, JS, SQL, Postgres, DBeaver, Postman, Axios, Vite.js <br/>
-+ HTML/CSS, Sass CSS, Flexbox CSS, Grid CSS, BEM, Bootstrap, Material Design <br/>
++ HTML/CSS, Sass CSS, Flexbox CSS, Grid CSS, BEM, Bootstrap, Tailwind, MUI CSS <br/>
 + Git, GitHub, GitLab, Jira, Bitbucket, Taiga, Trello, Slack <br/>
 
 **Methodologies:** Scrum, Kanban <br/>
